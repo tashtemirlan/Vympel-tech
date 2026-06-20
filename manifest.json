@@ -1,0 +1,35 @@
+{
+    "name": "Vympel Tech — системы безопасности",
+    "short_name": "Vympel Tech",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0E0E10",
+    "theme_color": "#0E0E10",
+    "description": "Комплексные системы безопасности для бизнеса и дома: видеонаблюдение, сигнализация, СКУД, сети и умный дом.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
